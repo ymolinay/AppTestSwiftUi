@@ -1,0 +1,37 @@
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcodeproj
+*.xcscheme
+*.xccheckout
+*.moved-aside
+*.xcuserdatad/
+*.DS_Store
+
+# SwiftPM
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+.env
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+Carthage/Packages/
+
+# Logs
+*.log
+
+# Derived Data
+~/Library/Developer/Xcode/DerivedData/
+~/Library/Caches/com.apple.dt.Xcode/
+
+# Personal settings
+.idea/
+userdata
